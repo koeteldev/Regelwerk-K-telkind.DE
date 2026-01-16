@@ -7,19 +7,23 @@
           ● Beim Brechen dieser Regeln können vom **Kötelkind.DE** Serverteam Strafen in angemessener Stärke  ausgesprochen werden.
           ● Wir behalten uns vor die Regeln jederzeit zu ändern. Ein regelmäßiger Blick auf diese Seite ist also kein Verlust. 
           ● Unwissenheit schützt in keinem Fall vor Strafe.
+          ● Das Umgehen von Strafen (z. B. durch Zweitaccounts) ist verboten.
 
 ## **§2 Chatverhalten**
           ● Beleidigende, provokante, respektlose oder in irgendeiner anderen Form anstößige oder unangemessene Aussagen und Chatbeiträge sind verboten.
           ● Werbung in allen Formen ist strengstens untersagt.
           ● Das Fragen oder Drängen nach persönlichen Daten ist zu unterlassen.
           ● Spamming ist verboten.
+          ● Das absichtliche Umgehen von Wortfiltern ist verboten.
+          ● Anweisungen des Serverteams ist Folge zu leisten.
+          ● Diskussionen über Strafen gehören nicht in den öffentlichen Chat.
 
 ## **§3 Survival-Verhalten**
           ● PVP ist in der ganzen Welt deaktiviert. Bis auf eine Arena am Spawn, gibt es keine Möglichkeit, gegen andere Spieler in diesem Modus zu kämpfen.
-          ● Modifikationen, die Spielern Vorteile gegenüber anderen verschaffen sind verboten (z. B. Fly, Killaura, AutoClicker, Jesus... )
+          ● Jegliche Client-Modifikationen, Makros oder Texturepacks, die spielerische Vorteile verschaffen, sind verboten.
           ● Griefen in allen Formen ist bei uns strengstens untersagt. Dazu gehört das unerlaubte Abfarmen von Felder oder das Zerstören von Gebäuden.
           ● Bäume sollten komplett abgeholzt werden.
-          ● 1-Block-Aussichtstürme oder Cobblebunker verschandeln nur die Gegend und dürfen vom Serverteam ohne Wiederrede entfernt werden.
+          ● Temporäre Bauwerke (z. B. Türme zum Erkunden) sollten nach Nutzung entfernt werden.
           ● Suche dir mit deinem Haus/ deiner Basis einen stillen abgelegenen Ort wo du keinen anderen Spieler störst. Das Sichern von Gebäuden ist `/claim help` hilft dir dabei.
           ● Dauerhaft laufende Redstone-Apparaturen sind verboten.
           ● Das Zubauen oder Schaden von Zonen von anderen Spielern ist strengstens untersagt.
@@ -31,4 +35,11 @@
           ● Spieler dürfen keine "Scams" betreiben (z. B. falsche Handelsangebote oder den Handel abbrechen, nachdem der andere Spieler gezahlt hat).
 
 ## §4 Minigames
-          ● 
+          ● In allen Minigames gelten zusätzlich zu diesem Regelwerk die jeweils ausgeschriebenen Spielregeln des Modus.
+          ● Das absichtliche Ausnutzen von Bugs, Glitches, Mapfehlern oder Spielmechaniken, die nicht vorgesehen sind, ist verboten.
+          ● Modifikationen, Makros oder Hilfsmittel, die einen unfairen Vorteil verschaffen, sind auch in Minigames untersagt.
+          ● Unsportliches Verhalten (z. B. Spawncamping, absichtliches Verlieren, Teaming in Solo-Modi oder gezieltes Stören des Spielablaufs) ist verboten.
+          ● Das mutwillige Verzögern oder Blockieren von Runden (z. B. Verstecken ohne Spielabsicht) ist untersagt.
+          ● Das absichtliche Verlassen eines Minigames, um einer Niederlage, Statistikänderung oder Strafe zu entgehen, kann sanktioniert werden.
+          ● Entscheidungen von Spielleitern, Moderatoren oder automatischen Spielsystemen sind bindend.
+          ● Belohnungen aus Minigames können bei Regelverstößen aberkannt werden.
