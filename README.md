@@ -1,4 +1,4 @@
-# **__WILDLIFE-HIDEOUTSERVER-REGELWERK__** <img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/accb032f-f1a1-4880-be3a-1f3e3ed2e1f3" />
+# **__KÖTELKIND.DE Server-Regelwerk__** <img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/accb032f-f1a1-4880-be3a-1f3e3ed2e1f3" />
 
 
 ## **§1** **Geltungsbereich dieses Regelwerks**
